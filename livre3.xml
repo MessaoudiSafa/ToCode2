@@ -1,0 +1,41 @@
+<?xml encoding=" ISO-8859-1"?>
+
+
+<livre:namespace="http://www.masociete.com">
+	
+	<section:namespace="http://www.masociete.com">
+		
+		<chapitre:namespace="http://www.masociete.com">
+			
+			<paragrahpe:namespace="http://www.masociete.com"></paragrahpe>
+			<paragrahpe:namespace="http://www.masociete.com"></paragrahpe>
+		</chapitre>
+
+		<chapitre:namespace="http://www.masociete.com">
+			
+			<paragrahpe:namespace="http://www.masociete.com"></paragrahpe>
+			<paragrahpe:namespace="http://www.masociete.com"></paragrahpe>
+		</chapitre>
+	</section>
+	
+	<section:ns="http://www.monentreprise.com">
+		
+		<chapitre>
+			
+			<paragrahpe></paragrahpe>
+			<paragrahpe></paragrahpe>
+	    </chapitre>
+		<chapitre>
+			
+			<paragrahpe></paragrahpe>
+			<paragrahpe></paragrahpe>
+		</chapitre>
+	
+	
+	<ListeAut>
+		
+		<titre>ListAuteures</titre>
+		
+	</ListeAut>
+
+

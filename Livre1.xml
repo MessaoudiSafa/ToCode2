@@ -1,0 +1,44 @@
+<?xml encoding="ISO-8859-1"?>
+
+
+<livre>
+	<sections>
+		<section>
+			<titre>section1</titre>
+			<chapitre>
+				<titre>chap1</titre>
+				<paragrahpe></paragrahpe>
+				<paragrahpe></paragrahpe>
+			</chapitre>
+			<chapitre>
+				<titre>chap2</titre>
+				<paragrahpe></paragrahpe>
+				<paragrahpe></paragrahpe>
+			</chapitre>
+		</section>
+		
+		<section>
+			<titre>section2</titre>
+			<chapitre>
+				<titre>chap1</titre>/
+				<paragrahpe></paragrahpe>
+				<paragrahpe></paragrahpe>
+		    </chapitre>
+			<chapitre>
+				<titre>chap2</titre>
+				<paragrahpe></paragrahpe>
+				<paragrahpe></paragrahpe>
+			</chapitre>
+		
+	</section>
+	<ListeAut>
+		<titre>ListAuteures</titre>
+		<auteur>
+			<nom>Naut1</nom>
+			<prenom>Paut1</prenom>
+		</auteur>
+		<auteur>
+			<nom>Naut2</nom>
+			<prenom>Paut2</prenom>
+		</auteur>
+	</ListeAut>

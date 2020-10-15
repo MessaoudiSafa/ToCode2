@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="contact">
+  <xs:complexType name="contactType">
+  	<xs:sequence>
+     	<xs:element name="nom" type="xs:string"/>
+      	<xs:element name="telephone" type="xs:string" use="optional"/>
+      	<xs:element name="email" type="xs:string"/>
+      	<xs:element name="email" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:attribute name="titre" type="xs:string" />
+<xs:attribute name="techno" type="xs:string" use="optional"/>

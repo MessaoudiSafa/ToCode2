@@ -1,0 +1,53 @@
+<?xml encoding=" ISO-8859-1"?>
+
+
+<livre>
+	
+	<section>
+		<titre>section1</titre>
+		<chapitre>
+			<titre>chap1</titre>
+
+
+			<paragrahpe>
+				&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;
+			</paragrahpe>
+
+
+			<paragrahpe>
+				<![CDATA[
+   					<element id="10">  &gt; </element>
+				]]>
+			</paragrahpe>
+
+
+
+		</chapitre>
+		<chapitre>
+			<titre>chap2</titre>
+			<paragrahpe></paragrahpe>
+			<paragrahpe></paragrahpe>
+		</chapitre>
+	</section>
+	
+	<section>
+		<titre>section2</titre>
+		<chapitre>
+			<titre>chap1</titre>/
+			<paragrahpe></paragrahpe>
+			<paragrahpe></paragrahpe>
+	    </chapitre>
+		<chapitre>
+			<titre>chap2</titre>
+			<paragrahpe></paragrahpe>
+			<paragrahpe></paragrahpe>
+		</chapitre>
+	
+	
+	<ListeAut>
+		<titre>ListAuteures</titre>
+		<nom>Naut1</nom>
+		<prenom>Paut1</prenom>
+		<nom>Naut2</nom>
+		<prenom>Paut2</prenom>
+	</ListeAut>

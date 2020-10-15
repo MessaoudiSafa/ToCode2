@@ -1,0 +1,41 @@
+<?xml encoding=" ISO-8859-1"?>
+
+<livre>
+	<sections>
+		<section titre="section1">
+			
+			<chapitre titre="chap1">
+				
+				<paragrahpe>first paragraphe</paragrahpe>
+				<paragrahpe>second paragraphe</paragrahpe>
+
+			</chapitre>
+			<chapitre titre="chap2">
+				
+				<paragrahpe>first paragraphe</paragrahpe>
+				<paragrahpe>second paragraphe</paragrahpe>
+
+			</chapitre>
+		</section>
+		
+		<section titre="section2">
+			
+			<chapitre titre="chap1">
+				
+				<paragrahpe>first paragraphe</paragrahpe>
+				<paragrahpe>second paragraphe</paragrahpe>
+
+		    </chapitre>
+			<chapitre titre="chap2">
+				
+				<paragrahpe>first paragraphe</paragrahpe>
+				<paragrahpe>second paragraphe</paragrahpe>
+
+			</chapitre>
+		
+	</section>
+	<ListeAut titre="ListAuteurs">
+		<auteur nom="nom1" prenom="prenom1"></auteur>
+		<auteur nom="nom2" prenom="prenom2"></auteur>
+	
+	</ListeAut>
